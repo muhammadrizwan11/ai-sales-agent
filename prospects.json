@@ -1,0 +1,32 @@
+{
+    "ABC": {
+        "name": "ABC",
+        "company": "Mind Bridge",
+        "role": "HR",
+        "interests": [
+            "in local student"
+        ],
+        "pain_points": [
+            "students"
+        ],
+        "notes": "ABC",
+        "last_contact": "2025-05-04",
+        "interaction_history": [
+            {
+                "date": "2025-05-04",
+                "type": "email",
+                "notes": "Generated email"
+            },
+            {
+                "date": "2025-05-04",
+                "type": "objection",
+                "notes": "Handled objection: sudent"
+            },
+            {
+                "date": "2025-05-04",
+                "type": "proposal",
+                "notes": "Generated proposal outline"
+            }
+        ]
+    }
+}
